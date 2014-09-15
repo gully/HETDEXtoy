@@ -6,18 +6,20 @@ Started as part of #AstroHackWeek
 
 Main goals:
 ==========
-1) Science with non-cosmology sources
-2) Inference on instrument based on sky signal
-3) Inference on atmosphere based on sky signal
+1. Science with non-cosmology astronomical sources
+2. Inference on atmosphere based on sky signal
+3. Inference on instrument based on sky signal
 
 
-Astronomical sources
+
+Science with non-cosmology sources
 ---------------------
 
-# Strategy
-1) Back-of-the-envelope calculations of number density for naive Celestial Sphere model
-2) Back-of-the-envelope calculations of number density for realistic Luminosity Function and distance distribution
-3) Retrieval of desired quantities of interest at the low S/N ratio limit
+Strategy
+1. Back-of-the-envelope calculations of number density for naive Celestial Sphere model
+2. Back-of-the-envelope calculations of number density for realistic Luminosity Function and distance distribution
+3. Retrieval of desired quantities of interest at the low S/N ratio limit
+
 
 Sensitivity issues:
 + Absolute (gray) flux of spectral targets
@@ -33,10 +35,11 @@ Probability of hitting a source that was in:
 + SDSS Stripe 82
 
 
-Sky signals
+
+Inference on atmosphere based on sky signal
 --------------------
 
-How does cadence compare to typical HETDEX cadence-
+How does cadence compare to typical HETDEX cadence?
 + Power spectrum of atmospheric variability
 + Typical HETDEX cadence
 
@@ -46,12 +49,13 @@ Atmospheric spectral diagnostics in wavelength range of interest
 + Typical seasonal atmospheric variation
 
 Spatial variation of Atmosphere
++ Attributable to real atmospheric physics
 
 
 Inference on instrument based on sky signal
-----------------------
+-------------------------------------------
 
-Inference on atmosphere based on sky signal
----------------------
+Apparent variation of sky lines
++ Attributable to instrument
 
 
